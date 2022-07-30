@@ -31,7 +31,7 @@ I import data using pandas (read_csv) built in function
 
 ### By Drink
 
-- concating all Beverages to make drink feature(column)
+- concatinate all Beverages to make drink feature(column)
 
 - Sort data in a new variable by the tajing the first 7 sorted data according to calories
 
