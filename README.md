@@ -17,7 +17,7 @@ I import data using pandas (read_csv) built in function
      see data type and unique values 
 
     #### then:
-     replace (varies) with null values
+     replace (varies)in Caffeine Column with null values
 
      And fill all null values with the mean of the column 
 
