@@ -44,3 +44,9 @@ I import data using pandas (read_csv) built in function
 - plot a bar plot between Beverage Category Column and Calories Column
 
 - plot a bar plot between Beverage Category Column and Sugars Column
+
+## How to run
+ 
+There is nothing Complicated in running the solution all you need to do is run all and see the visualization 
+
+I wrote headings and few comments in the code to help anyone understand it.
